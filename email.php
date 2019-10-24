@@ -19,6 +19,8 @@ if(isset($_POST['submit'])){
 
 <!DOCTYPE html>
 <head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
 <title>Form submission</title>
 </head>
 <body>
